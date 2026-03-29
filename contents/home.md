@@ -10,7 +10,7 @@ I'm currently pursuing a Master's degree in Control Science and Engineering at D
 #### Education
 **Donghua University**, Bachelor of Automation, 2019.09-2023.06
 
-**Donghua University**, Master of Control Science and Engineering，2023.9-now
+**Donghua University**, Master of Control Science and Engineering，2023.09-2026.06
 
 #### Research Interests
 Machine Learning Systems, Computer Science, Multimodal Learning, Human-Object Interaction.

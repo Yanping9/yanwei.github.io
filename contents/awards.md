@@ -1,3 +1,3 @@
-- 校级学习优秀奖学金，东华大学，2021.  
-- 校级一等奖学金，东华大学，2022.  
-- 研究生学业奖学金，东华大学，2023~2026.  
+- Academic Excellence Scholarship,Donghua University,2021.  
+- First-class Scholarship,Donghua University,2022.  
+- Graduate Academic Scholarship,Donghua University,2023/2024/2025.  
