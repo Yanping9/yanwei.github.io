@@ -3,7 +3,7 @@
 
 #### [CMFN: instructive queries and consistent predictions for human-object interaction detection](https://github.com/Yanping9/CMFN)
 
-<img src="yanwei.github.io/static/assets/img/cmfn.png" alt="CMFN" style="width:100%; max-width:900px; height:auto; display:block; margin:1rem auto;">
+<img src="static/assets/img/cmfn.png" alt="CMFN" style="width:100%; max-width:900px; height:auto; display:block; margin:1rem auto;">
 
 In this study, we propose a *Context-aware Multi-confidence Fusion network* (CMFN) to bridge cross-task information flows, where multiple explicit and implicit contexts from the instance detection phase are fully utilized to enhance interaction recognition.
 
@@ -18,7 +18,7 @@ In this study, we propose a *Context-aware Multi-confidence Fusion network* (CMF
 **August 2025 – April 2026 | DongHua University**
 #### [Boosting Two-Stage Human-Object Interaction Detection with Coarse Geometric Cues](https://github.com/Yanping9/CGC-HOI)
 
-<img src="yanwei.github.io/static/assets/img/CGC-HOI.png" alt="CGC-HOI" style="width:100%; max-width:900px; height:auto; display:block; margin:1rem auto;">
+<img src="static/assets/img/CGC-HOI.png" alt="CGC-HOI" style="width:100%; max-width:900px; height:auto; display:block; margin:1rem auto;">
 
 we propose a *coarse geometric cues enhanced HOI detection framework* (CGC-HOI), which introduces geometric information into interaction reasoning. The proposed framework integrates three complementary geometric cues, namely image contours, human keypoints, and bounding box representations.
 
